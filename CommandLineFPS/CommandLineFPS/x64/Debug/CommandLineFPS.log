@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\Asta\C++\OneLoneCoder_Tutorials\CommandLineFPS\CommandLineFPS\Source.cpp(163,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  CommandLineFPS.vcxproj -> D:\Asta\C++\OneLoneCoder_Tutorials\CommandLineFPS\x64\Debug\CommandLineFPS.exe
